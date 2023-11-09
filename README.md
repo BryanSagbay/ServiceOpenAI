@@ -3,7 +3,8 @@
 </div>
 
 # Service OpenAI :fa-cogs: 
-Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta que se imprime en la consola.
+<div id="abo">
+Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta que se imprime en la consola. </div><br>
 
 [![Language](https://img.shields.io/github/languages/top/BryanSagbay/ServiceOpenAI?color=56BEB8 "Language")](https://img.shields.io/github/languages/top/BryanSagbay/ServiceOpenAI?color=56BEB8 "Language")  [![Languages](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=56BEB8 "Languages")](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=56BEB8 "Languages") [![Repository](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Repository")](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Repository") [![License](https://img.shields.io/github/license/BryanSagbay/ServiceOpenAI?color=56BEB8 "Reports")](https://img.shields.io/github/license/BryanSagbay/ServiceOpenAI?color=56BEB8 "Reports")
 
@@ -20,17 +21,20 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 
 <hr> 
 
-**(Table of Contents)**
-
-[TOCM]
-
-[TOC]
+<p a>
+  <a href="#abo">About</a> &#xa0; | &#xa0; 
+  <a href="#how">Cómo utilizar</a> &#xa0; | &#xa0;
+  <a href="#dep">Dependencias </a>|&#xa0;
+  <a href="#dat">Datos</a> &#xa0; | &#xa0;
+  <a href="#lic">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/BryanSagbay" target="_blank">Author</a>
+</p>
 
 <br>
 
-
-> ### **¿Cómo utilizar?**
-
+<div id="how">
+> ### **- ¿Cómo utilizar?**
+</div>
 1. Clona el repositorio en tu máquina local.
 ```bash
 $ git clone https://github.com/BryanSagbay/ServiceOpenAI.git
@@ -49,20 +53,27 @@ $ api_Key='{You_apiKey}'
 1. Ejecute el script ejecutando python3 main.py en su terminal.
 ```bash
 $ python3 main.py
-```
+``` 
 <br>
 
-> ### Dependencias
-
+<div id="dep">
+> ###-  Dependencias
+</div>
 - OpenAI
 - Json
 <br>
 
-> ### Datos
-
+<div id="dat">
+> ###-  Datos
+</div>
 El script utiliza un archivo JSON ubicado en ./data/gpli.json para obtener una lista de tipos de problemas. El archivo contiene una serie de objetos, cada uno de los cuales tiene una propiedad de tipo que describe un tipo de problema en el sistema universitario.
+
+
+
+
 <br>
 
+<div id="lic">
 > ### License &copy;
 
 Este proyecto está bajo licencia. Para mas detalles, consulte el archivo de licencias.
@@ -70,9 +81,7 @@ Este proyecto está bajo licencia. Para mas detalles, consulte el archivo de lic
 
 Hecho por: <a href="https://github.com/BryanSagbayt" target="_blank">Bryan Sagbay</a>
 
-
+</div>
 ------------
-
-
 
 <a href="#top">Back to top</a>
