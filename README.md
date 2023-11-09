@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*5ecJKPe4wDKIJ197h5r3bQ.png"  height="300" width="600" alt="ServiceOpenAI" />
 </div>
 
-# Service OpenAI :fa-cogs: 
+# Service OpenAI: 🚀 
 Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta que se imprime en la consola. 
 
 [![Language](https://img.shields.io/github/languages/top/BryanSagbay/ServiceOpenAI?color=56BEB8 "Language")](https://img.shields.io/github/languages/top/BryanSagbay/ServiceOpenAI?color=56BEB8 "Language")  [![Languages](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=56BEB8 "Languages")](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=56BEB8 "Languages") [![Repository](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Repository")](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Repository") [![License](https://img.shields.io/github/license/BryanSagbay/ServiceOpenAI?color=56BEB8 "Reports")](https://img.shields.io/github/license/BryanSagbay/ServiceOpenAI?color=56BEB8 "Reports")
@@ -15,14 +15,14 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 </p>
 
 <h4 align="center"> 
-	🚧  ServiceOpenAI 🚀 Under construction...  🚧
+	🚧  ServiceOpenAI - Under construction...  🚧
 </h4> 
 
 <hr> 
 
 <br>
 
-> ### ** 1. ¿Cómo utilizar?**
+> ### 1. How to use?
 
 1. Clona el repositorio en tu máquina local.
 ```bash
