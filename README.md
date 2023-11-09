@@ -22,7 +22,7 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 
 <br>
 
-> ### **- ¿Cómo utilizar?**
+> ### ** 1. ¿Cómo utilizar?**
 
 1. Clona el repositorio en tu máquina local.
 ```bash
@@ -46,21 +46,21 @@ $ python3 main.py
 <br>
 
 
-> ###-  Dependencias
+> ### 2. Dependencias
 
 - OpenAI
 - Json
 <br>
 
 
-> ###-  Datos
+> ###  3. Datos
 
 El script utiliza un archivo JSON ubicado en ./data/gpli.json para obtener una lista de tipos de problemas. El archivo contiene una serie de objetos, cada uno de los cuales tiene una propiedad de tipo que describe un tipo de problema en el sistema universitario.
 
 <br>
 
 
-> ### License &copy;
+> ### License & Copy &copy;
 
 Este proyecto está bajo licencia. Para mas detalles, consulte el archivo de licencias.
 
