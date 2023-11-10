@@ -24,17 +24,17 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 $ git clone https://github.com/BryanSagbay/ServiceOpenAI.git
 ```
 
-1. Instale las dependencias requeridas ejecutando:
+2. Instale las dependencias requeridas ejecutando:
 ```bash
 $ npm install
 ```
 
-1. En el archivo config.py agregue su clave API de OpenAI dentro de la variable api_Key.
+3. En el archivo config.py agregue su clave API de OpenAI dentro de la variable api_Key.
 ```bash
 $ api_Key='{You_apiKey}'
 ```
 
-1. Ejecute el script ejecutando python3 main.py en su terminal.
+4. Ejecute el script ejecutando python3 main.py en su terminal.
 ```bash
 $ python3 main.py
 ``` 
