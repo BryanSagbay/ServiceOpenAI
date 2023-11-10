@@ -1,17 +1,14 @@
 import openai
 import json
 import config
-import openai
 import imaplib
 import email
 from email.header import decode_header
-import json
-
 
 
 def ReadMail ():
-    username = "pruebascorreos2023@outlook.com"  # Tu correo aquí
-    password = "Ucacue2023"  # Tu contraseña aquí
+    username = config.username
+    password = config.password  
 
     # Crear conexión
     imap = imaplib.IMAP4_SSL("outlook.office365.com")

@@ -3,15 +3,10 @@
 </div>
 
 # Service OpenAI: 🚀 
-Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta que se imprime en la consola. 
+Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta.
 
-[![Language](https://img.shields.io/github/languages/top/BryanSagbay/ServiceOpenAI?color=56BEB8 "Language")](https://img.shields.io/github/languages/top/BryanSagbay/ServiceOpenAI?color=56BEB8 "Language")  [![Languages](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=56BEB8 "Languages")](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=56BEB8 "Languages") [![Repository](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Repository")](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Repository") [![License](https://img.shields.io/github/license/BryanSagbay/ServiceOpenAI?color=56BEB8 "Reports")](https://img.shields.io/github/license/BryanSagbay/ServiceOpenAI?color=56BEB8 "Reports")
+[![](https://img.shields.io/badge/python-purple?logo=python)](https://img.shields.io/badge/python-purple?logo=python) [![](https://img.shields.io/badge/HTML5-brown?logo=html5)](https://img.shields.io/badge/html5-purple?logo=html5) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/BryanSagbay/ServiceOpenAI?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/serviceopenaI?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/serviceopenaI?color=blue "Start") 
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/BryanSagbay/ServiceOpenAI?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/serviceopenai?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/serviceopenai?color=56BEB8" /> -->
 </p>
 
 <h4 align="center"> 
@@ -24,12 +19,12 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 
 > ### 1. How to use?
 
-1. Clona el repositorio en tu máquina local.
+1. Clone el repositorio en tu máquina local.
 ```bash
 $ git clone https://github.com/BryanSagbay/ServiceOpenAI.git
 ```
 
-1. Instale las dependencias requeridas ejecutando pip install -r requisitos.txt.
+1. Instale las dependencias requeridas ejecutando:
 ```bash
 $ npm install
 ```
@@ -50,12 +45,25 @@ $ python3 main.py
 
 - OpenAI
 - Json
+- Email
+- Imaplib
+- Email-Header
+- Flask
 <br>
 
 
 > ###  3. Datos
 
 El script utiliza un archivo JSON ubicado en ./data/gpli.json para obtener una lista de tipos de problemas. El archivo contiene una serie de objetos, cada uno de los cuales tiene una propiedad de tipo que describe un tipo de problema en el sistema universitario.
+```bash
+  {
+        "type": "Tipo de Problema",
+        "engineer": "Ingeniero a cargo",
+        "email": "Correo del Ingeniero",
+        "caso": "Tipo de caso",
+        "description":"Descripción del Tipo de Problema"
+    }
+```
 
 <br>
 
@@ -65,7 +73,7 @@ El script utiliza un archivo JSON ubicado en ./data/gpli.json para obtener una l
 Este proyecto está bajo licencia. Para mas detalles, consulte el archivo de licencias.
 
 
-Hecho por: <a href="https://github.com/BryanSagbayt" target="_blank">Bryan Sagbay</a>
+Hecho por: <a href="https://github.com/BryanSagbayt" target="_blank">Bryan Sagbay & Sebastián Carrión</a>
 
 
 ------------
