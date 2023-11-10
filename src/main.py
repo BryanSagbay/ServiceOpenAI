@@ -66,10 +66,8 @@ def ReadMail ():
                         except  Exception as e:
                             print("ERROR "+e)
                             
-
+# Variable para guardar el texto extraido del correo
 texto = ReadMail()
-print (texto)
-
 
 # Autenticar con la API de OpenAI
 openai.api_key = config.api_Key
