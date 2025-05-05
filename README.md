@@ -56,6 +56,7 @@ $ python3 main.py
 > ###  3. Datos
 
 El script utiliza un archivo JSON ubicado en ./data/gpli.json para obtener una lista de tipos de problemas. El archivo contiene una serie de objetos, cada uno de los cuales tiene una propiedad de tipo que describe un tipo de problema en el sistema universitario.
+
 ```bash
   {
         "type": "Tipo de Problema",
