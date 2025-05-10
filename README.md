@@ -16,7 +16,6 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 <hr> 
 
 <br>
-
 > ### 1. How to use?
 
 1. Clone el repositorio en tu máquina local.
