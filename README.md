@@ -8,6 +8,7 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 [![](https://img.shields.io/badge/python-purple?logo=python)](https://img.shields.io/badge/python-purple?logo=python) [![](https://img.shields.io/badge/HTML5-brown?logo=html5)](https://img.shields.io/badge/html5-purple?logo=html5) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/serviceopenai?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/serviceopenai?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/serviceopenaI?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/serviceopenaI?color=blue "Start") 
 
 </p>
+
 <h4 align="center"> 
 	🚧  ServiceOpenAI - Under construction...  🚧
 </h4> 
