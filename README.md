@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/openai.png?fit=1200%2C675&quality=50&strip=all&ssl=1"  height="300" width="600" alt="ServiceOpenAI" />
-	
 </div>
+
 # Service OpenAI: 🚀 
 Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta.
 
