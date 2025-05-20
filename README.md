@@ -4,6 +4,7 @@
 </div>
 
 # Service OpenAI: 🚀 
+
 Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para clasificar problemas en un sistema universitario. El script recibe el texto extraido del correo, que luego se concatena con una lista de tipos de problemas obtenidos de un archivo JSON. Luego, el mensaje resultante se envía al modelo GPT-4, que genera una respuesta.
 
 [![](https://img.shields.io/badge/python-purple?logo=python)](https://img.shields.io/badge/python-purple?logo=python) [![](https://img.shields.io/badge/HTML5-brown?logo=html5)](https://img.shields.io/badge/html5-purple?logo=html5) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/ServiceOpenAI?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/serviceopenai?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/serviceopenai?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/serviceopenaI?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/serviceopenaI?color=blue "Start") 
