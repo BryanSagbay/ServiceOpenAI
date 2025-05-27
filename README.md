@@ -12,6 +12,7 @@ Este código es un script de Python que utiliza el modelo GPT-4 de OpenAI para c
 
 </p>
 
+
 <h4 align="center"> 
 	🚧  ServiceOpenAI - Under construction...  🚧
 </h4> 
