@@ -1,6 +1,5 @@
 
 <div align="center" id="top"> 
-	
 <img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/openai.png?fit=1200%2C675&quality=50&strip=all&ssl=1"  height="300" width="600" alt="ServiceOpenAI" />
 </div>
 
